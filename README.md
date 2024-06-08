@@ -93,7 +93,7 @@ Thanks very much to all of my sponsors. Below are messages included as one of th
 [release-badge]: https://img.shields.io/github/v/release/ItsLogic/Xbox-Achievement-Unlocker?style=for-the-badge
 [release-url]: https://github.com/ItsLogic/Xbox-Achievement-Unlocker/releases
 [discord-id]: https://img.shields.io/discord/1013602813093359657?logo=discord&style=for-the-badge
-[discord-invite]: https://discord.gg/ugDvSw7cns
+[discord-invite]: https://discord.gg/ckbCmjtEsn
 [WPF-Commit]: https://github.com/lepoco/wpfui/tree/c8cd75f6f82414a52a94d2a55fe2a21dd5db83d7
 [LICENSE]:LICENSE
 [MIT-LICENSE]:LICENSE.MIT
