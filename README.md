@@ -60,7 +60,7 @@ See [Events](./Doc/Events.md) for details.
 
 ## Usage Guide
 
-See [Discord](https://discord.com/channels/1013602813093359657/1233193528553640017) for comprehensive guides by Xolara.
+See [Discord](https://discord.gg/ckbCmjtEsn) for comprehensive guides by 419.
 
 ## Future Improvements
 
@@ -80,9 +80,6 @@ This tool uses the XboxAuthNet library which is also MIT licensed
 
 Thanks very much to all of my sponsors. Below are messages included as one of the sponsorship rewards
 
-### ziqnr
-
-"I have brain damage" - [ziqnr](https://github.com/ziqnr) 2024
 
 
 [contributors-badge]: https://img.shields.io/github/contributors/ItsLogic/Xbox-Achievement-Unlocker?style=for-the-badge
